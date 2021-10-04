@@ -1,0 +1,7 @@
+{
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "defaultCommandTimeout": 5000,
+    "ignoreTestFiles": "**/examples/*",
+    "baseUrl": "http://localhost:4200/"
+}
